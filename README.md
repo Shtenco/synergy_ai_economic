@@ -29,6 +29,10 @@
 
 ---
 
+## Spatial and geographic data integration
+
+Read-only mapping of verified regions, economic cells and aggregated model outputs is specified in [Spatial Twin Integration](docs/SPATIAL_TWIN_INTEGRATION.md). The map layer must preserve evidence types and keep physical quantities separate from balanced financial postings. The current five-country model still contains synthetic production capacities and is not an empirically validated national digital twin.
+
 # 🌍 Что это за система
 
 **СИНЕРГИЯ** исследует, может ли экономика сочетать рыночную конкуренцию, планирование, подтверждённые физические инвестиции, финансовую устойчивость и кибернетическую обратную связь без скрытой денежной прибыли и без заранее назначенного победителя.
